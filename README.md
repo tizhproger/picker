@@ -9,6 +9,7 @@ python *path to script*/Picker.py http://link_to_post/category.сс
 
 Script will automatically create a folder with the domain name.
 
+
 After downloading all necessary media, you can organize them with images_concentrator. Open a console and type
 
 python *path to script*/images_concentrator.py -a (all files)/ -g (only gifs)/ -i (only images)/ -c (only coubs)
