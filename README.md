@@ -15,4 +15,9 @@ After downloading all necessary media, you can organize them with images_concent
 
 `python *path to script*/images_concentrator.py -a (all files)/ -g (only gifs)/ -i (only images)/ -c (only coubs)`
 
-*Choose an argument for the media type you want to work with*
+>Choose an argument for the media type you want to work with
+
+
+- [ ] Solve the temporary IP ban
+- [ ] Style the downloading process output
+- [ ] Eat a cake when all tasks are done :tada:
