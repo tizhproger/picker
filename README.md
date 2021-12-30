@@ -17,6 +17,7 @@ After downloading all necessary media, you can organize them with **images_conce
 >Choose an argument for the media type you want to work with
 
 
+
 **Tasks to work on:**
 - [ ] Solve the temporary IP ban
 - [ ] Style the downloading process output
