@@ -6,6 +6,7 @@ Usage:
 To use a picker script, just open a console and type
 
 python *path to script*/Picker.py http://link_to_post/category.сс
+
 Script will automatically create a folder with the domain name.
 
 After downloading all necessary media, you can organize them with images_concentrator. Open a console and type
